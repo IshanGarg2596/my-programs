@@ -1,2 +1,2 @@
 # my-programs
-my repository on github which shows what i made.
+my repository of standard algorithms and common c problems that i solve.
