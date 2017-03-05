@@ -1,2 +1,2 @@
 # my-programs
-my repository of standard algorithms and common problems that i solve in c language.
+my repository of standard algorithms and common problems that i solve in c language and c++.
