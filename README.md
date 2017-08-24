@@ -1,1 +1,1 @@
-repository for algorithms that i have implemented.
+repository for algorithms i have implemented.
